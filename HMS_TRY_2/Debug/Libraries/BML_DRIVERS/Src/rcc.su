@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm0.h:730:22:__NVIC_SetPriority	24	static
+../Drivers/CMSIS/Include/core_cm0.h:920:26:SysTick_Config	16	static
+../Libraries/BML_DRIVERS/Src/rcc.c:10:19:RCC_CONFIG_48MHZ	80	static
+../Libraries/BML_DRIVERS/Src/rcc.c:40:19:RCC_CONFIG_48MHZ_BML	24	static

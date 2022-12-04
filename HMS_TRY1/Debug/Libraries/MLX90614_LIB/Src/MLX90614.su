@@ -1,0 +1,17 @@
+../Libraries/MLX90614_LIB/Src/MLX90614.c:35:9:mlx90614_crc8	32	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:50:19:mlx90614_read16	32	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:66:19:mlx90614_write16	48	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:106:9:mlx90614_calcRawTemp	32	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:125:7:mlx90614_calcTemperature	24	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:141:19:mlx90614_init	8	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:166:6:mlx90614_setUnit	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:170:19:mlx90614_readID	24	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:182:19:mlx90614_getEmissivity	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:194:19:mlx90614_setEmissivity	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:204:19:mlx90614_setMax	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:209:19:mlx90614_setMin	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:214:19:mlx90614_getMax	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:223:19:mlx90614_getMin	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:232:19:mlx90614_getAmbient	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:241:19:mlx90614_getObject1	16	static
+../Libraries/MLX90614_LIB/Src/MLX90614.c:252:19:mlx90614_getObject2	16	static
